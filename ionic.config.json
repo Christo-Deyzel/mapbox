@@ -1,0 +1,7 @@
+{
+  "name": "TagirTut",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
